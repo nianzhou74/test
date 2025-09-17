@@ -1,3 +1,5 @@
+# Author: 叶航, 72510086, nianzhou74
+# Reviewer1: 焦子恩 72510234，6791150
 def is_win(game):
     # Check rows
      for i in range(3):
