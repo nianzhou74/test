@@ -47,7 +47,7 @@ def main():
             break  # Terminate the game
         if n == 8:  # All cells have been filled
             print("Tie!")
-        # Show the game board
+        # Show the game board 
         for row in game:
             print(" ".join(row))
 
